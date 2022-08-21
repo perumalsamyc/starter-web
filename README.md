@@ -9,7 +9,7 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos. 
-
+This is simple web project to show various part of repository. 
 
 ## How to COntribute
 
