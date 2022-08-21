@@ -14,5 +14,7 @@ This is simple web project to show various part of repository.
 As mentioned above this is useful for git training..
 
 ## How to COntribute
+I will add this section little later..
 
 ## Deployment
+This is simple web project we can deploy any web server or even in local file system. 
