@@ -11,6 +11,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos. 
 This is simple web project to show various part of repository. 
 
+As mentioned above this is useful for git training..
+
 ## How to COntribute
 
 ## Deployment
